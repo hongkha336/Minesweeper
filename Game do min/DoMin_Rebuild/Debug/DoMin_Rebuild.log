@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\dell\desktop\kha_project\do_min\domin_rebuild\source.cpp(100): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DoMin_Rebuild.vcxproj -> C:\Users\DELL\Desktop\Kha_Project\Do_Min\Debug\DoMin_Rebuild.exe
+  DoMin_Rebuild.vcxproj -> C:\Users\DELL\Desktop\Kha_Project\Do_Min\Debug\DoMin_Rebuild.pdb (Partial PDB)

@@ -1,0 +1,27 @@
+C:\Users\DELL\Desktop\Kha_Project\Do_Min\Do_Min Form\obj\Debug\Do_Min Form.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Kha_Project\Do_Min\Do_Min Form\obj\Debug\Do_Min_Form.Properties.Resources.resources
+C:\Users\DELL\Desktop\Kha_Project\Do_Min\Do_Min Form\obj\Debug\Do_Min Form.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Kha_Project\Do_Min\Do_Min Form\bin\Debug\Do_Min Form.exe.config
+C:\Users\DELL\Desktop\Kha_Project\Do_Min\Do_Min Form\bin\Debug\Do_Min Form.exe
+C:\Users\DELL\Desktop\Kha_Project\Do_Min\Do_Min Form\bin\Debug\Do_Min Form.pdb
+C:\Users\DELL\Desktop\Kha_Project\Do_Min\Do_Min Form\obj\Debug\Do_Min Form.exe
+C:\Users\DELL\Desktop\Kha_Project\Do_Min\Do_Min Form\obj\Debug\Do_Min Form.pdb
+C:\Users\DELL\Desktop\Kha_Project\Do_Min\Do_Min Form\obj\Debug\Do_Min_Form.DoMin.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\Kha_Project\Do_Min\Do_Min Form\bin\Debug\Do_Min Form.exe.config
+C:\Users\Dang Nguyen Hong Kha\Desktop\Kha_Project\Do_Min\Do_Min Form\obj\Debug\Do_Min Form.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\Kha_Project\Do_Min\Do_Min Form\obj\Debug\Do_Min Form.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\Kha_Project\Do_Min\Do_Min Form\bin\Debug\Do_Min Form.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\Kha_Project\Do_Min\Do_Min Form\bin\Debug\Do_Min Form.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\Kha_Project\Do_Min\Do_Min Form\obj\Debug\Do_Min Form.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\Kha_Project\Do_Min\Do_Min Form\obj\Debug\Do_Min_Form.DoMin.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\Kha_Project\Do_Min\Do_Min Form\obj\Debug\Do_Min_Form.Properties.Resources.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\Kha_Project\Do_Min\Do_Min Form\obj\Debug\Do_Min Form.csproj.GenerateResource.Cache
+D:\2018_HK2\2018_TU HOC WINFORM\Game do min\Do_Min Form\bin\Debug\Do_Min Form.exe.config
+D:\2018_HK2\2018_TU HOC WINFORM\Game do min\Do_Min Form\obj\Debug\Do_Min Form.exe
+D:\2018_HK2\2018_TU HOC WINFORM\Game do min\Do_Min Form\obj\Debug\Do_Min Form.pdb
+D:\2018_HK2\2018_TU HOC WINFORM\Game do min\Do_Min Form\bin\Debug\Do_Min Form.exe
+D:\2018_HK2\2018_TU HOC WINFORM\Game do min\Do_Min Form\bin\Debug\Do_Min Form.pdb
+D:\2018_HK2\2018_TU HOC WINFORM\Game do min\Do_Min Form\obj\Debug\Do_Min Form.csprojResolveAssemblyReference.cache
+D:\2018_HK2\2018_TU HOC WINFORM\Game do min\Do_Min Form\obj\Debug\Do_Min_Form.DoMin.resources
+D:\2018_HK2\2018_TU HOC WINFORM\Game do min\Do_Min Form\obj\Debug\Do_Min_Form.Properties.Resources.resources
+D:\2018_HK2\2018_TU HOC WINFORM\Game do min\Do_Min Form\obj\Debug\Do_Min Form.csproj.GenerateResource.Cache
